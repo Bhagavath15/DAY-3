@@ -1,0 +1,12 @@
+The window is at the top of javascript object and represent browser window. 
+All global javascript ,functions,variables automatically become members of windows.
+It is the first thing that loaded in the browser.
+The window object represent the current browsing content.
+
+Document represents any web page that loaded in browser and serves an entry point into web page(DOM tree).
+when an HTML document loaded in a web browser it becomes document object.
+The document gets loaded in inside window object and has properties like title,url,cookies.
+
+Screen is a small information object about physical dimensions.
+It can display screen width,height,colordepth,pixeldepth.
+It is not mandatory to write window prefix in screen object.
